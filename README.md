@@ -9,7 +9,7 @@ The core element of BBO is a fragment of BPMN 2.0 including concepts, relations 
 ## Acknowledgements
 This is the forked version of the BBO by Amina Annane, Nathalie Aussenac-Gilles, Mouna Kamel. Please cite the original authors:
 
-```latex
+```BibTeX
 
 @inproceedings{annane_bbo_2019,
 	title = {{BBO}: {BPMN} 2.0 based ontology for business process representation},
