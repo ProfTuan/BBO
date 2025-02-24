@@ -6,6 +6,8 @@
 
 The core element of BBO is a fragment of BPMN 2.0 including concepts, relations an attributes to describe business processes (mainly Chapter 10 of BPMN 2.0 specification). We enriched this fragment with taxonomies, new concepts and relations to have a fine grained representation of business processes.
 
+
+
 ## Acknowledgements
 This is the forked version of the BBO by Amina Annane, Nathalie Aussenac-Gilles, Mouna Kamel. Please cite the original authors:
 
